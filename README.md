@@ -22,3 +22,7 @@ Once the environment variable is set, run the following to save your account det
 ```bash
 python src/save_account.py
 ```
+
+# Running the Jupyter notebook
+
+Once the token has been saved to your IBM local account, you can run the Jupyter notebook from src/chsh-inequality.ipynb by either following the intructions present [here](https://docs.jupyter.org/en/latest/running.html) or running directly from Visual Studio Code folling the instructions preset [here](https://code.visualstudio.com/docs/datascience/jupyter-notebooks#:~:text=If%20you%20have%20an%20existing%20Jupyter%20Notebook%2C%20you,can%20also%20use%20keyboard%20shortcuts%20to%20run%20code.).
