@@ -2,3 +2,4 @@ qiskit
 matplotlib
 numpy
 ipykernel
+ipywidgets
